@@ -8,9 +8,9 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/Smitmore2003/AdsBot.",
-    "website": "xditya.me",
-    "success_url": "https://t.me/smitmorexd",
+    "repository": "https://github.com/vipcaller/AdsBot.",
+    "website": "vipcaller.co",
+    "success_url": "https://t.me/vip_caller",
     "env": {
         "SESSION": {
             "description": "A telethon session string.",
