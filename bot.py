@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# < (c) @xditya , https://xditya.me >
+# < (c) @vip_caller , https://vipcaller.co >
 # ADsBot, 2021.
 
 # Paid source, re-distributing without contacting the code owner is NOT allowed.
@@ -156,5 +156,5 @@ scheduler.add_job(send_the_ads, "interval", seconds=INTERVAL)
 scheduler.start()
 
 client.loop.run_until_complete(me())
-print("Bot has started!\n(c) @smitmorexd\n")
+print("Bot has started!\n(c) @VipCaller\n")
 client.run_until_disconnected()
